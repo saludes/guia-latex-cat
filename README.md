@@ -8,6 +8,8 @@ El GIT de l'autor https://github.com/oetiker/lshort (que segueix actiu ja que hi
 
 #### Proposta:
 Afegir versió catalana a https://www.learnlatex.org/. Mireu [com contribuir](https://github.com/learnlatex/learnlatex.github.io/blob/master/CONTRIBUTING.md)
+En particular:
+> If you do plan to contribute a translation then please contact the site maintainers by _opening an issue_.
 
 ## Sobre 'spelling'
 
