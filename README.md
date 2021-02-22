@@ -7,7 +7,7 @@ La versió del CTAN (que té moltes traduccions però no en català) https://www
 El GIT de l'autor https://github.com/oetiker/lshort (que segueix actiu ja que hi ha fitxers modificats recentment).
 
 #### Proposta:
-Afegir versió catalana a https://www.learnlatex.org/
+Afegir versió catalana a https://www.learnlatex.org/. Mireu [com contribuir](https://github.com/learnlatex/learnlatex.github.io/blob/master/CONTRIBUTING.md)
 
 ## Sobre 'spelling'
 
