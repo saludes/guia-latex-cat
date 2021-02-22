@@ -11,6 +11,8 @@ Afegir versió catalana a https://www.learnlatex.org/. Mireu [com contribuir](ht
 En particular:
 > If you do plan to contribute a translation then please contact the site maintainers by _opening an issue_.
 
+i la [guia per a traduir](https://github.com/learnlatex/learnlatex.github.io/blob/master/TRANSLATIONS.md)
+
 ## Sobre 'spelling'
 
 https://zverok.github.io/blog/2021-01-28-spellchecker-5.html
